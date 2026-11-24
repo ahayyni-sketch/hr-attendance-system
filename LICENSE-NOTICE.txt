@@ -1,0 +1,1 @@
+ATTENDIX project package prepared for the requesting user. Review third-party CDN/library licenses before commercial redistribution.
